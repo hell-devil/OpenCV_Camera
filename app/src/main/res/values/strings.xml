@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OpenCV_Camera</string>
+    <string name="huiduhua">灰度化</string>
+    <string name="src">原图</string>
+    <string name="camera">相机</string>
+    <string name="album">图库</string>
+    <string name="save">保存</string>
+    <string name="savepath">存储路径</string>
+    <string name="blur">模糊</string>
+    <string name="mean_blur">均值模糊</string>
+    <string name="gaussian_blur">高斯模糊</string>
+    <string name="median_blur">中值模糊</string>
+    <string name="title_activity_image_edit">ImageEdit</string>
+</resources>
